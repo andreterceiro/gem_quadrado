@@ -2,8 +2,6 @@
 
 It calculates the result of a second degree equation.
 
-calcula equações de segundo grau. Para eu aprender a fazer uma Gem.
-
 ## Installation
 
 Add this line to your application's Gemfile:
