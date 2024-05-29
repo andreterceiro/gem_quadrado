@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["André Terceiro"]
   spec.email         = ["apterceiro@fcl.com.br"]
 
-  spec.summary       = %q{Calcula equações de segumdo grau.}
-  spec.description   = %q{Calcula equações de segumdo grau.}
+  spec.summary       = %q{Calcula equações de segundo grau.}
+  spec.description   = %q{Calcula equações de segundo grau.}
   spec.homepage      = "http://github.com/andreterceiro"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
