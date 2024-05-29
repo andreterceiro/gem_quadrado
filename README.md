@@ -26,6 +26,12 @@ require 'quadrado'
 puts Quadrado.calcular(1,2,1)
 ```
 
+## Tutorials
+
+[How to create a gem](https://gist.github.com/kelvinst/d63d1bfb93d367089217)
+
+[How to update a gem](https://medium.com/@leog7one/how-to-update-your-gem-on-rubygems-org-6abb45f200a7)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
