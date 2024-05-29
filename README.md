@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+require 'quadrado'
+
+puts Quadrado.calcular(1,2,1)
+```
 
 ## Development
 
